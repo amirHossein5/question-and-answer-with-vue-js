@@ -1,15 +1,24 @@
-# question and answer with vue js
+# vue-try
 
+## Project setup
+```
+npm install
+```
 
-test your knowledge in sports!
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-you can answer to questions about sports and there is four answers to choose. 
+### Compiles and minifies for production
+```
+npm run build
+```
 
-.
-.
-.
-.
+### Lints and fixes files
+```
+npm run lint
+```
 
-
-
-**this project is with vue cli**
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

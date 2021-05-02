@@ -1,0 +1,12 @@
+#question {
+    width: 35rem;
+    margin-top: 1rem;
+}
+
+#content {
+    min-height: 13rem
+}
+
+.list-group-item {
+    cursor: pointer;
+}
