@@ -1,4 +1,4 @@
-# question and ansert
+# question and answer
 
 shows 10 question about sport and you can choose answers and try your knowledge in sports
 
